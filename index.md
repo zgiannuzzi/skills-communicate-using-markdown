@@ -6,3 +6,7 @@
 ``` python
   myVar = "Hello, world!";
 ```
+
+- [X] Complete this assignment. 
+- [ ] Hand it in. 
+- [ ] Submit to brightspace.
